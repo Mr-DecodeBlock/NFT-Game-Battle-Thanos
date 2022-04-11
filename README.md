@@ -1,4 +1,4 @@
-# Final Project - 🎮 Dynamic NFT Mini Game 🕹
+# 🎮 Dynamic NFT Mini Game 🕹
 
 ### [Play On 🎮](https://nftbattle.netlify.app/) ⏩ https://nftbattle.netlify.app/
 
